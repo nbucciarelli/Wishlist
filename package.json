@@ -1,0 +1,23 @@
+{
+  "name": "Wishlist",
+  "version": "0.0.1",
+  "description": "Wishlist application.",
+  "main": "Gruntfile.js",
+  "dependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-watch": "~0.5.3",
+    "grunt-contrib-jshint": "~0.7.1",
+    "grunt-contrib-concat": "~0.3.0",
+    "grunt-contrib-uglify": "~0.2.7",
+    "grunt-express": "~1.2.1",
+    "express": "~3.4.4",
+    "nano": "~4.2.1",
+    "underscore": "~1.5.2",
+    "ejs": "~0.8.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD-2-Clause"
+}
